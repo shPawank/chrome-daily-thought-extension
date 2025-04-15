@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Daily Thought New Tab",
+    "version": "1.0",
+    "description": "Get a new inspirational thought every time you open a new tab.",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "icons": {
+      "128": "icon.png"
+    },
+    "permissions": [],
+    "action": {
+      "default_title": "Daily Thought"
+    }
+  }
+  
